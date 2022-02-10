@@ -16,7 +16,7 @@ section {
     background-color:azure;
     margin-left: 1.66%;
     margin-right:1.66%;
-    height:140px;
+    height:160px;
     box-sizing: border-box;
     float:left;
     display:grid;
@@ -36,8 +36,10 @@ h3 {
 
 p {
     position: relative;
-    top: -50px;
+    top: -45px;
     color:midnightblue;
+    margin-left: 10px;
+    margin-right: 10px;
 }
 
 #Chicken-Title {
